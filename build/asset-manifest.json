@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8dd067e.css",
+    "main.js": "/static/js/main.ce82fea8.js",
+    "static/media/infas_logo.png": "/static/media/infas_logo.3e1a66c4c5bb5c4818a9.png",
+    "index.html": "/index.html",
+    "main.e8dd067e.css.map": "/static/css/main.e8dd067e.css.map",
+    "main.ce82fea8.js.map": "/static/js/main.ce82fea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8dd067e.css",
+    "static/js/main.ce82fea8.js"
+  ]
+}
